@@ -1,0 +1,10 @@
+dist
+docs
+e2e
+mobile/hooks
+mobile/platforms
+mobile/plugins
+mobile/config.xml
+mobile/package-lock.json
+mobile/package.json
+node_modules
